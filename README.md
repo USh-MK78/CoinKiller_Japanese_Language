@@ -4,7 +4,7 @@ Put the [Japanese] folder in [coinkiller_data\languages].
 
 CoinKiller version : v15
 
-#build
+# Build
 
 Qt version : Qt 5.9.1
 
